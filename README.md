@@ -28,3 +28,7 @@ Thank you so much for purchasing our product!
     <img src="./img/04-work-on-request.png" width="100%"/>
 </div>
 
+<div align="center">
+    <img src="./img/07-unlimited-customization.png" width="100%"/>
+</div>
+
