@@ -1,5 +1,4 @@
 <div align="center">
-    <h1>Specialist</h1>
     <img src="./img/banner.png" width="590" />
     <p align="center">
         React Native Freelancer App Template
