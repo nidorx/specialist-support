@@ -11,7 +11,7 @@
 
 ## Welcome to Specialist support channel 
 
-Thank you so much for purchasing our product!
+Thank you so much for purchasing the Specialist!
 
 ***
 
