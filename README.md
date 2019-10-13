@@ -14,8 +14,6 @@
 Thank you so much for purchasing our product!
 
 
-## Features
-
 <div align="center">
     <img src="./img/01-summary.png"  width="100%"/>
 </div>
@@ -23,6 +21,8 @@ Thank you so much for purchasing our product!
 <div align="center">
     <img src="./img/02-why-buy-specialist.png" width="100%"/>
 </div>
+
+## Features
 
 <div align="center">
     <img src="./img/03-hire-a-professional.png" width="100%"/>
