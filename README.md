@@ -17,7 +17,7 @@ Thank you so much for purchasing our product!
 ## Features
 
 <div align="center">
-    <img src="./img/01-summary.png" />
+    <img src="./img/01-summary.png"  width="100%"/>
 </div>
 
 <div align="center">
