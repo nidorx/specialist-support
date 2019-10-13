@@ -21,10 +21,10 @@ Thank you so much for purchasing our product!
 </div>
 
 <div align="center">
-    <img src="./img/03-hire-a-professional.png" />
+    <img src="./img/03-hire-a-professional.png" width="100%"/>
 </div>
 
 <div align="center">
-    <img src="./img/04-work-on-request.png" />
+    <img src="./img/04-work-on-request.png" width="100%"/>
 </div>
 
