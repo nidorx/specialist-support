@@ -33,6 +33,10 @@ Thank you so much for purchasing our product!
 </div>
 
 <div align="center">
+    <img src="./img/06-credits-and-testimonials.png" width="100%"/>
+</div>
+
+<div align="center">
     <img src="./img/07-unlimited-customization.png" width="100%"/>
 </div>
 
