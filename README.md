@@ -21,6 +21,10 @@ Thank you so much for purchasing our product!
 </div>
 
 <div align="center">
+    <img src="./img/02-why-buy-specialist.png" width="100%"/>
+</div>
+
+<div align="center">
     <img src="./img/03-hire-a-professional.png" width="100%"/>
 </div>
 
