@@ -13,6 +13,7 @@
 
 Thank you so much for purchasing our product!
 
+***
 
 <div align="center">
     <img src="./img/01-summary.png"  width="100%"/>
